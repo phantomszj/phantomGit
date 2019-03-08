@@ -1,4 +1,4 @@
 test
 modify test
 
-modify by master
+resolve conflict by master
